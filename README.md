@@ -1,5 +1,5 @@
 # GAME_MO-102
-Game for projectx
+Game for project
 
 Как играть?
 
