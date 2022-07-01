@@ -1,4 +1,7 @@
 # GAME_MO-102
+## C#
+## Unity 3D
+
 Game for project
 
 Как играть?
